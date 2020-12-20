@@ -1,0 +1,2 @@
+# EDA-Prosper-Loan-Data
+This project explores Prosper Loans dataset as part of the Udacity's Data Analytics Nanogegree. The original dataset consisted of 81 columns and 113937 loan listings. The dataset contains many interesting variables, however, for the purpose of this project my main interest is to find features that could help to predict if the debtors will be able keep their loan obligations or the loan will become default or charged off. 
